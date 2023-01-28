@@ -15,9 +15,9 @@
   <h1 align="center">Wannacry Remake</h1>
 
   <p align="center">
-    Highly reliable, botnet
+    Highly reliable, ransomware
     <br />
-    <a href="#commands"><strong>All Commands »</strong></a>
+    <a href="#about"><strong>About »</strong></a>
     <br />
     <br />
     <a href="https://github.com/Callumgm/Wannacry-Remake/issues">Report Bug</a>
