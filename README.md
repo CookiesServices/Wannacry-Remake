@@ -2,13 +2,13 @@
   <img src="https://img.shields.io/badge/version-3.0.0-blue.svg?cacheSeconds=2592000" >
   <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" >
   <!-- <img src="https://img.shields.io/badge/license-MIT-yellow.svg" > -->
-  <img src="https://img.shields.io/github/last-commit/Callumgm/Wannacry-Remake">
+  <img src="https://img.shields.io/github/last-commit/CookiesServices/Wannacry-Remake">
 </p>
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/Callumgm/Wannacry-Remake">
+  <a href="https://github.com/CookiesServices/Wannacry-Remake">
     <img src="./th-3809014175.jpg" alt="Logo" width="200" height="190">
   </a>
 
@@ -20,11 +20,11 @@
     <a href="#about"><strong>About »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Callumgm/Wannacry-Remake/issues">Report Bug</a>
+    <a href="https://github.com/CookiesServices/Wannacry-Remake/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Callumgm/Wannacry-Remake/issues">Request Feature</a>
+    <a href="https://github.com/CookiesServices/Wannacry-Remake/issues">Request Feature</a>
     ·
-    <a href="https://github.com/Callumgm/Wannacry-Remake/pulls">Send a Pull Request</a>
+    <a href="https://github.com/CookiesServices/Wannacry-Remake/pulls">Send a Pull Request</a>
   </p>
 </p>
 
@@ -70,7 +70,7 @@ v3.0.0 ⋮ 2023-01-28
 
 ## <a id="contributing"></a>🤝 〢 Contributing ##
 Contributions, issues and feature requests are welcome!<br />Feel free to check
-[issues page](https://github.com/Callumgm/Wannacry-Remake/issues).  
+[issues page](https://github.com/CookiesServices/Wannacry-Remake/issues).  
 
 
 ## <a id="support"></a>🌟 〢 Show your support ##
