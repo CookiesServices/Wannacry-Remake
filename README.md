@@ -32,10 +32,9 @@
 
 
 ## <a id="content"></a>🌐 〢 Content
-
+<!-- - [:pushpin:・Todo/Enhancements](#enhancements) -->
 - [:dart:・About](#about)
 - [:white_check_mark:・Requirements](#requirements)
-<!-- - [:pushpin:・Todo/Enhancements](#enhancements) -->
 - [:thought_balloon:・Change Log](#changelog)
 - [🤝・Contributing](#contributing)
 - [🌟・Show your support](#support)
