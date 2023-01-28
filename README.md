@@ -15,7 +15,7 @@
   <h1 align="center">Wannacry Remake</h1>
 
   <p align="center">
-    Highly reliable, ransomware
+    Highly reliable, ransomware | More stars = More updates
     <br />
     <a href="#about"><strong>About »</strong></a>
     <br />
