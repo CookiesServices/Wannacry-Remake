@@ -9,7 +9,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Callumgm/Wannacry-Remake">
-    <img src="./logo.png" alt="Logo" width="200" height="190">
+    <img src="./th-3809014175.jpg" alt="Logo" width="200" height="190">
   </a>
 
   <h1 align="center">Wannacry Remake</h1>
