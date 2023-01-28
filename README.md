@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.2.0-blue.svg?cacheSeconds=2592000" >
+  <img src="https://img.shields.io/badge/version-3.0.0-blue.svg?cacheSeconds=2592000" >
   <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" >
   <!-- <img src="https://img.shields.io/badge/license-MIT-yellow.svg" > -->
   <img src="https://img.shields.io/github/last-commit/Callumgm/Wannacry-Remake">
@@ -34,13 +34,11 @@
 ## <a id="content"></a>🌐 〢 Content
 
 - [:dart:・About](#about)
-- [:gear:・Commands](#commands)
 - [:white_check_mark:・Requirements](#requirements)
-- [:pushpin:・Todo/Enhancements](#enhancements)
+<!-- - [:pushpin:・Todo/Enhancements](#enhancements) -->
 - [:thought_balloon:・Change Log](#changelog)
 - [🤝・Contributing](#contributing)
 - [🌟・Show your support](#support)
-<!-- - [📝・License](#license) -->
 
 ## <a id="about"></a>:dart: 〢 About ##
 
@@ -48,33 +46,24 @@
 > Do not scan the client compiled exe with any antivirus software, or it will be detected and rendered useless!
 
 
-A botnet is a group of Internet-connected devices such as laptops, computors and servers, each of which runs one or more bots. Botnets can be used to steal data, send spam, and allow the attacker to access the device and its connection. The owner can control the botnet using command and control software over a very clean and modern GUI.
-
-Eachd command has been created in mind to stop all crashes and unexpected fails meaning u never have to worry about loosing your connection. Open ports will be needed to be able to connect to the target machines. There are also many of ways to infect a device such a remote infection or the victim running a malious malawre application.
+Wannacry was a very malicious malware that attacked the world some time ago. It locked down computers, encrypted data and demanded ransom for its release. I decided to remake this masterpiece and bring it back into the world of cyber crime today.
 <br>
 
-## <a id="commands"></a>:gear: 〢 Commands ##
-
-```
-help                    - Display help command
-```
-<!--  -->
 
 ## <a id="requirements"></a>:white_check_mark: 〢 Requirements ##
 
-Before starting :checkered_flag:, you are required to have [Python 3.8 - 3.9](https://www.python.org/downloads/release/python-397/) installed and [added to path](https://docs.blender.org/manual/en/latest/_images/about_contribute_install_windows_installer.png).
+Before starting :checkered_flag:, you are required to have [Visual Studio 2019 - 2022](https://visualstudio.microsoft.com/downloads/) installed.
 
 
-## <a id="enhancements"></a>:pushpin: 〢 Todo/Enhancements ##
-
+<!-- ## <a id="enhancements"></a>:pushpin: 〢 Todo/Enhancements ##
+ -->
 
 
 ## <a id="changelog"></a>:thought_balloon: 〢 Change Log ##
 
 ```diff
 v3.0.0 ⋮ 2023-01-28
-+ Added TEST
-- Removed TEST
++ Initial release
 ```
 
 
